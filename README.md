@@ -2,4 +2,4 @@
 
 * Used to restore important scripts incase a backfire happens.
 
-https://discord.gg/3REWtp5prp
+https://discord.gg/DyBM9CmP2g
